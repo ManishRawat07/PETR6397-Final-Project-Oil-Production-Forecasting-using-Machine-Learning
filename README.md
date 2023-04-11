@@ -17,7 +17,7 @@ To help oil and gas companies determine the estimated ultimate recovery (EUR) of
 
 We will collect data of around 300-400 wells in the Permian Basin field from Enverus(Drillinginfo) and the Railroad Commission of Texas' Oil & Gas Division.
 
-5.VAnalysis:
+5. Analysis:
 
 We will develop a proxy-well model for predicting cumulative oil production using statistically significant production parameters and reservoir information as independent predictor variables in machine learning models. We will apply a feature selection method to extract key features of a well's time-rate production profile, which will be used to estimate cumulative oil production.
 
